@@ -1,0 +1,7 @@
+{
+    "name": "artex-development/phpPayments",
+    "description": "The only super-simple, powerful, and easy to use payment framework for PHP 7+",
+    "require": {
+        "php": "^5.6.37 || ^7.0",
+    }
+}
