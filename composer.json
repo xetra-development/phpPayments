@@ -1,7 +1,31 @@
 {
     "name": "artex-development/phpPayments",
+    "type": "library",
     "description": "The only super-simple, powerful, and easy to use payment framework for PHP 7+",
+    "keywords": ["payment","payments","phppayments","phpPayments","phpPayment","phppayment", "credit card", "paypal", "gateway", "pay"],
+    "homepage": "https://www.phppayments.xyz",
+    "authors": [
+        {
+            "name": "Artex Development",
+            "email": "theartex@gmail.com",
+            "homepage": "https://github.com/artex-development",
+            "role": "Project Maintainer"
+        }
+        {
+            "name": "Blake Stevenson",
+            "email": "blake@blakestevenson.me",
+            "homepage": "https://github.com/ExplosiveNight",
+            "role": "Lead Developer"
+        }
+        {
+            "name": "Allen Lantz",
+            "email": "allen.m.lantz@gmail.com",
+            "homepage": "https://al1l.com",
+            "role": "Developer"
+        }
+    ],
+    "license": "Apache 2.0",
     "require": {
-        "php": "^5.6.37 || ^7.0",
+        "php": ">=7.0",
     }
 }
